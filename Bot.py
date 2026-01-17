@@ -2,7 +2,7 @@ import os
 import telebot
 import io
 
-TOKEN = os.environ["BOT_TOKEN"]
+TOKEN = os.environ["8225246869:AAH10vhRzkHJu7N6FVmur0aO8ZVy-41yzM"]
 bot = telebot.TeleBot(TOKEN)
 
 print("🚀 Бот запускается...")
